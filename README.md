@@ -30,7 +30,7 @@ Name     : Arifian Saputra
 2. Install Transformers <br>
    <code>pip install transformers</code>
 1. Starting Application <br>
-   in terminal/bash: <code>flask run --port 5001</code>
+   in terminal/bash: <code>flask run</code>
    <br> then, click the url in terminal.
 
 ## Credits:
